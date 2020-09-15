@@ -4,7 +4,7 @@
 4. Skills JS, HTML, CSS - ***beginner***
 5. Code examples None
 6. Experience [codewars](https://www.codewars.com/users/tenassy/completed)
-7. Education 
+7. Education
    * [htmlacademy](https://htmlacademy.ru/profile/id480913) 
    * rsschool - ***just started*** 
-8. I passed IELTS in May 2018, my score was **6.5**. I’m working in Huawei Tech Investment Company for 3 years as Bidding Engineer, so have contacts with my colleagues around the world every day. I’ve supported huge amount of projects in English, arranged trainings, workshops and etc. So I can surely say that I have huge experience in English.
+8. I passed IELTS in May 2018, my score was **6.5**. I’m working in Huawei Tech Investment Company for 3 years as Bidding Engineer, so have contacts with my colleagues around the world every day. I’ve supported huge amount of projects in English, arranged trainings, workshops and etc. So I can surely say that I have big experience in English.
